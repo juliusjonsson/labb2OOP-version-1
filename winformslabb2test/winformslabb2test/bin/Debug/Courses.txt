@@ -1,0 +1,21 @@
+5
+testkursen
+144141
+50
+Simon Johansson
+dsfvfssdf
+240420
+15
+ssdf
+Testkursen
+23014
+14
+Test Testarsson
+Databasteknik
+22015
+50
+Bim Fagerström
+Objektorienterad Systemutveckling
+1
+50
+Stefan Andersson
